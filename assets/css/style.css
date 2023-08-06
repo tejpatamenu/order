@@ -949,21 +949,21 @@ section {
 }
 
 .menu .menu-item {
-  margin-top: 15px;
+  margin-top: 0px;
 }
 .menu .menu-item-red {
   margin-top: 5px;
 }
 
 .menu .menu-img {
-  width: 70px;
+  width: 40px;
   border-radius: 50%;
   float: left;
   border: 5px solid rgba(255, 255, 255, 0.2);
 }
 
 .menu .menu-content {
-	margin-top: 20px;
+	margin-top: 0px;
   margin-left: 85px;
   overflow: hidden;
   display: flex;
