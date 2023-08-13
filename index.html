@@ -318,9 +318,12 @@
          $(document).ready(function() {
 		 //var data = {"menu":{"starter":[{"active":1,"name":"Fish Fry (2pics)","price":"10","img":"fish-fry.jpg"},{"active":1,"name":"Egg Chicken Roll","price":"10","img":"fish-fry.jpg"},{"active":1,"name":"Vegetable Chop (6Pics)","price":"12","img":"fish-fry.jpg"},{"active":1,"name":"Egg Devil (5Pics)","price":"12","img":"fish-fry.jpg"},{"active":1,"name":"Kolkata Style Fuchka (25Pics)","price":"15","img":"fish-fry.jpg"}],"main":[{"active":1,"name":"Beans Alu Posto","price":"10","img":"fish-fry.jpg"},{"active":1,"name":"Kumror Tarkari","price":"10","img":"fish-fry.jpg"},{"active":1,"name":"Mashroom Curry","price":"10","img":"fish-fry.jpg"},{"active":1,"name":"Chingri Posto","price":"10","img":"fish-fry.jpg"},{"active":1,"name":"Chicken Curry(6 leg pics)","price":"10","img":"fish-fry.jpg"}],"combo":[{"active":1,"name":"Roti Combo-1","ingredients":["Roti(4Pics)","Veg Tadka","Pickle"],"price":"12","img":"bread-barrel.jpg"},{"active":1,"name":"Roti Combo-3","ingredients":["Roti(4Pics)","Egg Tadka","Pickle"],"price":"11","img":"bread-barrel.jpg"},{"active":1,"name":"Roti Combo-2","ingredients":["Roti(4Pics)","Ghugni","Pickle"],"price":"11","img":"bread-barrel.jpg"}]}};
 			  $.getJSON('menu.json', function(data) {
+			  console.log(data);
 			var starters = data.menu.starter;
 			var mains = data.menu.main;
 			var combos = data.menu.combo;
+			console.log(starters);
+			
 			addMenuLines(starters,"col-lg-6 menu-item filter-starters");
 			addMenuLines(mains,"col-lg-6 menu-item filter-salads");
 			addMenuLines(combos,"col-lg-6 menu-item filter-specialty");
