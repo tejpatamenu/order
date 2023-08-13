@@ -1,0 +1,25 @@
+{
+"menu":{
+"starter":[
+{"class":"active","name":"Fish Fry (2pics)","price":"10","img":"fish-fry.jpg"},
+{"class":"active","name":"Egg Chicken Roll","price":"10","img":"fish-fry.jpg"},
+{"class":"active","name":"Vegetable Chop (6Pics)","price":"12","img":"fish-fry.jpg"},
+{"class":"active","name":"Egg Devil (5Pics)","price":"12","img":"fish-fry.jpg"},
+{"class":"active","name":"Kolkata Style Fuchka (25Pics)","price":"15","img":"fish-fry.jpg"}
+],
+"main":[
+{"class":"active","name":"Beans Alu Posto","price":"10","img":"fish-fry.jpg"},
+{"class":"active","name":"Kumror Tarkari","price":"10","img":"fish-fry.jpg"},
+{"class":"active","name":"Mashroom Curry","price":"10","img":"fish-fry.jpg"},
+{"class":"active","name":"Chingri Posto","price":"10","img":"fish-fry.jpg"},
+{"class":"active","name":"Chicken Curry(6 leg pics)","price":"10","img":"fish-fry.jpg"}
+
+],
+"combo":[
+{"class":"active","name":"Roti Combo-1","ingredients":["Roti(4Pics)","Veg Tadka","Pickle"], "price":"12","img":"bread-barrel.jpg"},
+{"class":"active","name":"Roti Combo-3", "ingredients":["Roti(4Pics)","Egg Tadka","Pickle"],"price":"11","img":"bread-barrel.jpg"},
+{"class":"active","name":"Roti Combo-2","ingredients":["Roti(4Pics)","Ghugni","Pickle"], "price":"11","img":"bread-barrel.jpg"}
+]
+}
+
+}
