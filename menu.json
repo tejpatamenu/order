@@ -26,9 +26,15 @@
         "img": "fish-fry.jpg"
       },
       {
-        "active": 1,
+        "active": 0,
         "name": "Kolkata Style Fuchka (25Pics)",
         "price": "15",
+        "img": "fish-fry.jpg"
+      },
+      {
+        "active": 1,
+        "name": "Egg Devil-with chicken Staff (5Pics)",
+        "price": "14",
         "img": "fish-fry.jpg"
       }
     ],
