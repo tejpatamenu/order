@@ -1,10 +1,21 @@
 {
   "menu": {
     "starter": [
+	      {
+        "active": 0,
+        "name": "Chicken Momo(20 pics)",
+		"ingredients": [
+          "Momo",
+          "Soup",
+          "Schezwan Chgatni"
+        ],
+        "price": "36",
+        "img": "fish-fry.jpg"
+      },
       {
         "active": 1,
-        "name": "Chingri Cutlet(4 pics)",
-        "price": "14",
+        "name": "Chingri Chop(4pics)",
+        "price": "12",
         "img": "fish-fry.jpg"
       },
       {
@@ -15,7 +26,7 @@
       },
       {
         "active": 1,
-        "name": "Egg Kathi Chicken Roll",
+        "name": "Egg Chicken Roll",
         "price": "10",
         "img": "fish-fry.jpg"
       },
@@ -48,12 +59,18 @@
       {
         "active": 1,
         "name": "Roi Fish Curry(6 pics)",
-        "price": "20",
+        "price": "22",
         "img": "fish-fry.jpg"
       },
       {
-        "active": 1,
+        "active": 0,
         "name": "Muri Ghonto",
+        "price": "14",
+        "img": "fish-fry.jpg"
+      },
+	        {
+        "active": 1,
+        "name": "Palong Saker Ghonto",
         "price": "14",
         "img": "fish-fry.jpg"
       },
@@ -76,7 +93,7 @@
         "img": "fish-fry.jpg"
       },
       {
-        "active": 0,
+        "active": 1,
         "name": "Paneer Kopta Curry",
         "price": "16",
         "img": "fish-fry.jpg"
@@ -87,6 +104,12 @@
         "price": "10",
         "img": "fish-fry.jpg"
       },
+	  {
+        "active": 1,
+        "name": "Macher Matha Dia Badhakopi Tarkari",
+        "price": "12",
+        "img": "fish-fry.jpg"
+      },
       {
         "active": 1,
         "name": "Alu Soya Curry",
@@ -94,7 +117,7 @@
         "img": "fish-fry.jpg"
       },
       {
-        "active": 1,
+        "active": 0,
         "name": "Beans Alu Posto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -112,7 +135,7 @@
         "img": "fish-fry.jpg"
       },
       {
-        "active": 0,
+        "active": 1,
         "name": "Sukto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -124,19 +147,31 @@
         "img": "fish-fry.jpg"
       },
       {
-        "active": 1,
+        "active": 0,
         "name": "Chingri Posto",
         "price": "18",
         "img": "fish-fry.jpg"
       },
-      {
+	  {
         "active": 1,
-        "name": "Chicken Alu Curry",
+        "name": "Chingri MalaiCurry(10 Pics)",
         "price": "18",
         "img": "fish-fry.jpg"
       },
       {
+        "active": 0,
+        "name": "Chicken Alu Curry",
+        "price": "18",
+        "img": "fish-fry.jpg"
+      },
+	  {
         "active": 1,
+        "name": "Chicken MalaiCurry",
+        "price": "20",
+        "img": "fish-fry.jpg"
+      },
+      {
+        "active": 0,
         "name": "Chicken Vapa",
         "price": "18",
         "img": "fish-fry.jpg"
