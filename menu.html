@@ -91,6 +91,32 @@
   width: 100%;
   height: auto;
 }
+	    .circle-veg {
+    background: #5aac5a;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+}
+.veg {
+	border-style: solid;
+    border-color: #5aac5a;
+    padding: 2px;
+	float: left;
+
+}
+.circle-nonveg {
+    background: #ec6767;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+}
+.nonveg {
+	border-style: solid;
+    border-color: #ec6767;
+    padding: 2px;
+	float: left;
+
+}
     </style>
 	<script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <!-- =======================================================
@@ -233,7 +259,7 @@
 				if(item.active){
 					var menuLine = $("<div>", {id: "foo", "class":type });
 
-				       var title = '<div class="menu-content" style="margin-top: 0px;">'+
+				       var title = '<div class="'+item.type+'"> <div class="circle-'+item.type+'"></div></div><div class="menu-content" style="margin-top: 0px;">'+
                             '<a href="#">'+item.name+'</a><span>$'+item.price+'</span>'+
                         '</div>';
 						menuLine.append(title);
