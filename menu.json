@@ -22,7 +22,7 @@
       },
       {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Fish Fry (4pics)",
         "price": "12",
         "img": "fish-fry.jpg"
@@ -36,7 +36,7 @@
       },
       {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Egg Chicken Roll",
         "price": "10",
         "img": "fish-fry.jpg"
@@ -50,7 +50,7 @@
       },
       {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Chicken Chop (4Pics)",
         "price": "12",
         "img": "fish-fry.jpg"
@@ -64,7 +64,7 @@
       },
       {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Mutton Chop(4Pics)",
         "price": "14",
         "img": "fish-fry.jpg"
@@ -74,14 +74,14 @@
       {
         "desc": "............Rui Fish...............",
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Fish Rezala(6 pics)",
         "price": "22",
         "img": "fish-fry.jpg"
       },
 	  {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Rui Curry(6 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -103,21 +103,21 @@
       {
         "type": "nonveg",
 		"desc": "............Pomfret Fish...............",
-        "active": 0,
+        "active": 1,
         "name": "Sorse Pomfret(5 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
       },
 	  {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Pomfret Sorse Posto(5 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
 	  {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Pomfret curry(5 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -125,7 +125,7 @@
       {
         "type": "nonveg",
 		"desc": "............Chingri Fish...............",
-        "active": 1,
+        "active": 0,
         "name": "Chingri Posto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -139,7 +139,7 @@
       },
 	  {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Chingri Dopayaja",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -169,7 +169,7 @@
       {
         "type": "nonveg",
 		"desc": "............Fish with Vegetable...............",
-        "active": 1,
+        "active": 0,
         "name": "Lau Chingri",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -190,7 +190,7 @@
       },
       {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Moog Daler Muri Ghonto",
         "price": "14",
         "img": "fish-fry.jpg"
@@ -202,7 +202,7 @@
         "price": "12",
         "img": "fish-fry.jpg"
       },
-	  {
+	{
         "desc": "............Special Veg...............",
 		"type": "veg",
         "active": 0,
@@ -212,14 +212,14 @@
       },
 	  {
         "type": "veg",
-        "active": 1,
+        "active": 0,
         "name": "Navaratna veg",
         "price": "20",
         "img": "fish-fry.jpg"
       },
 	  {
         "type": "veg",
-        "active": 1,
+        "active": 0,
         "name": "Alu Vendi Masala",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -252,7 +252,7 @@
       {
         "desc": "............Veg...............",
 		"type": "veg",
-        "active": 1,
+        "active": 0,
         "name": "Chana Paneer",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -303,7 +303,7 @@
       },
       {
         "type": "veg",
-        "active": 1,
+        "active": 0,
         "name": "Pepe Chola Alu Tarkari",
         "price": "15",
         "img": "fish-fry.jpg"
@@ -326,7 +326,7 @@
       },
       {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Dohi Chicken",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -377,7 +377,7 @@
       },
       {
 		"type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Egg Dopayaja(4/8 pics)",
         "price": "12/$20",
         "img": "fish-fry.jpg"
@@ -397,7 +397,7 @@
       },
       {
         "type": "veg",
-        "active": 1,
+        "active": 0,
         "name": "Roti Combo-1",
         "ingredients": [
           "Roti(4Pics)",
@@ -409,7 +409,7 @@
       },
       {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Roti Combo-3",
         "ingredients": [
           "Roti(4Pics)",
@@ -441,6 +441,48 @@
           "Pickle"
         ],
         "price": "11",
+        "img": "bread-barrel.jpg"
+      },
+	    {
+        "orderAfter": "09-15-2023",
+        "type": "veg",
+        "active": 1,
+        "name": "Chicken Combo",
+        "ingredients": [
+          "Fish Fry(2Pics)",
+          "Cochuri(2pics) , Alu dam",
+          "Basanti pulao , Chicken masala",
+          "Sweet"
+        ],
+        "price": "28",
+        "img": "bread-barrel.jpg"
+      },
+      {
+        "orderAfter": "09-15-2023",
+        "type": "veg",
+        "active": 1,
+        "name": "Mutton Combo",
+        "ingredients": [
+          "Fish Fry(2Pics)",
+          "Cochuri(2pics), Alu dam",
+          "Basanti pulao, Mutton Kosa",
+          "Sweet"
+        ],
+        "price": "30",
+        "img": "bread-barrel.jpg"
+      },
+      {
+        "orderAfter": "09-15-2023",
+        "type": "nonveg",
+        "active": 1,
+        "name": "Paneer Combo",
+        "ingredients": [
+          "Fish Fry(2Pics)",
+          "Chocuri(2pics), Alu dam",
+          "Basanti pulao, Paneer Kopta Curry",
+          "Sweet"
+        ],
+        "price": "28",
         "img": "bread-barrel.jpg"
       }
     ]
