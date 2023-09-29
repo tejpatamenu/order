@@ -217,6 +217,13 @@
         "price": "20",
         "img": "fish-fry.jpg"
       },
+	    	  {
+        "type": "veg",
+        "active": 1,
+        "name": "Dhokar Dalna",
+        "price": "18",
+        "img": "fish-fry.jpg"
+      },
 	  {
         "type": "veg",
         "active": 0,
@@ -478,7 +485,7 @@
         "name": "Paneer Combo",
         "ingredients": [
           "Fish Fry(2Pics)",
-          "Chocuri(2pics), Alu dam",
+          "Cochuri(2pics), Alu dam",
           "Basanti pulao, Paneer Kopta Curry",
           "Sweet"
         ],
