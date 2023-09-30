@@ -15,7 +15,7 @@
       },
       {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Chingri Cutlet(4pics)",
         "price": "14",
         "img": "fish-fry.jpg"
@@ -50,7 +50,7 @@
       },
       {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Chicken Chop (4Pics)",
         "price": "12",
         "img": "fish-fry.jpg"
@@ -79,9 +79,9 @@
         "price": "22",
         "img": "fish-fry.jpg"
       },
-	  {
+	{
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Rui Curry(6 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
