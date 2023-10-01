@@ -22,7 +22,7 @@
       },
       {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Fish Fry (4pics)",
         "price": "12",
         "img": "fish-fry.jpg"
@@ -57,7 +57,7 @@
       },
       {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Egg Devil (5Pics)",
         "price": "12",
         "img": "fish-fry.jpg"
@@ -103,7 +103,7 @@
       {
         "type": "nonveg",
 		"desc": "............Pomfret Fish...............",
-        "active": 1,
+        "active": 0,
         "name": "Sorse Pomfret(5 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
