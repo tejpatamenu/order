@@ -342,7 +342,7 @@
       {
         "desc": "............Chicken...............",
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Chicken Curry",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -351,7 +351,7 @@
         "type": "nonveg",
         "active": 0,
         "name": "Dohi Chicken",
-        "price": "20",
+        "price": "22",
         "img": "fish-fry.jpg"
       },
       {
@@ -377,9 +377,9 @@
       },
 	  {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Chicken Dakbungalow",
-        "price": "22",
+        "price": "23",
         "img": "fish-fry.jpg"
       },
       {
