@@ -23,8 +23,8 @@
       {
         "type": "nonveg",
         "active": 1,
-        "name": "Fish Fry (4pics)",
-        "price": "12",
+        "name": "Fish Fry (2pics)",
+        "price": "10",
         "img": "fish-fry.jpg"
       },
 	  {
@@ -71,6 +71,22 @@
       }
     ],
     "main": [
+	    	          {
+        "desc": "............Pabda Fish...............",
+        "type": "nonveg",
+        "active": 0,
+        "name": "Pabda Sorse Posto(5 pics)",
+        "price": "20",
+        "img": "fish-fry.jpg"
+      },
+       {
+        "desc": "............Hilsha Fish...............",
+        "type": "nonveg",
+        "active": 0,
+        "name": "Ilish Vapa(6 pics)",
+        "price": "30",
+        "img": "fish-fry.jpg"
+      },
       {
         "desc": "............Rui Fish...............",
         "type": "nonveg",
@@ -117,7 +133,7 @@
       },
 	  {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Pomfret curry(5 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -137,15 +153,15 @@
         "price": "20",
         "img": "fish-fry.jpg"
       },
-	  {
+      {
         "type": "nonveg",
         "active": 1,
         "name": "Chingri Dopayaja",
         "price": "20",
         "img": "fish-fry.jpg"
       },
-	  {
-		"desc": "............Paneer...............",
+      {
+	"desc": "............Paneer...............",
         "type": "veg",
         "active": 0,
         "name": "Paneer Rezala",
@@ -205,7 +221,7 @@
 	{
         "desc": "............Special Veg...............",
 		"type": "veg",
-        "active": 0,
+        "active": 1,
         "name": "Sukto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -326,7 +342,7 @@
       {
         "desc": "............Chicken...............",
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Chicken Curry",
         "price": "18",
         "img": "fish-fry.jpg"
