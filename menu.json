@@ -298,7 +298,7 @@
 
       {
         "type": "veg",
-        "active": 0,
+        "active": 1,
         "name": "Badhakopi Tarkari",
         "price": "10",
         "img": "fish-fry.jpg"
