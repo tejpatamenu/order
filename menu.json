@@ -71,10 +71,10 @@
       }
     ],
     "main": [
-	    	          {
+	{
         "desc": "............Pabda Fish...............",
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Pabda Sorse Posto(5 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
