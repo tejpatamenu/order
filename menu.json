@@ -82,9 +82,9 @@
        {
         "desc": "............Hilsha Fish...............",
         "type": "nonveg",
-        "active": 0,
-        "name": "Ilish Vapa(6 pics)",
-        "price": "30",
+        "active": 1,
+        "name": "Ilish Vapa(3 pics)",
+        "price": "26",
         "img": "fish-fry.jpg"
       },
       {
@@ -385,7 +385,7 @@
       {
        "desc": "............Mutton...............",
 		"type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Mutton(Goat) Curry",
         "price": "26",
         "img": "fish-fry.jpg"
