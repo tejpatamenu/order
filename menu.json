@@ -15,7 +15,7 @@
       },
       {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Chingri Cutlet(4pics)",
         "price": "14",
         "img": "fish-fry.jpg"
@@ -36,8 +36,8 @@
       },
       {
         "type": "nonveg",
-        "active": 0,
-        "name": "Egg Chicken Roll",
+        "active": 1,
+        "name": "Egg Chicken Kathi Roll",
         "price": "10",
         "img": "fish-fry.jpg"
       },
@@ -57,7 +57,7 @@
       },
       {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Egg Devil (5Pics)",
         "price": "12",
         "img": "fish-fry.jpg"
@@ -192,7 +192,7 @@
       },
       {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Patal Chingri",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -226,9 +226,9 @@
         "price": "18",
         "img": "fish-fry.jpg"
       },
-	  {
+      {
         "type": "veg",
-        "active": 0,
+        "active": 1,
         "name": "Navaratna veg",
         "price": "20",
         "img": "fish-fry.jpg"
