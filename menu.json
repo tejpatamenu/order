@@ -370,14 +370,14 @@
       },
 	  {
         "type": "nonveg",
-        "active": 0,
+        "active": 1,
         "name": "Chicken Dopayaja",
         "price": "20",
         "img": "fish-fry.jpg"
       },
 	  {
         "type": "nonveg",
-        "active": 1,
+        "active": 0,
         "name": "Chicken Dakbungalow",
         "price": "23",
         "img": "fish-fry.jpg"
