@@ -161,7 +161,7 @@
       {
         "type": "nonveg",
         "orderBefore": "10-21-2023",
-        "active": 1,
+        "active": 0,
         "name": "Pomfret curry(5 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -261,7 +261,7 @@
         "desc": "............Special Veg...............",
         "type": "veg",
         "orderBefore": "10-21-2023",
-        "active": 1,
+        "active": 0,
         "name": "Sukto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -342,7 +342,7 @@
       {
         "type": "veg",
         "orderBefore": "10-21-2023",
-        "active": 1,
+        "active": 0,
         "name": "Badhakopi Tarkari",
         "price": "10",
         "img": "fish-fry.jpg"
