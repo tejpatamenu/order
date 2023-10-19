@@ -590,7 +590,7 @@
       },
       {
         "orderAfter": "10-13-2023",
-        "type": "veg",
+        "type": "nonveg",
         "orderBefore": "10-21-2023",
         "active": 1,
         "name": "Chicken Combo",
@@ -605,7 +605,7 @@
       },
       {
         "orderAfter": "10-13-2023",
-        "type": "veg",
+        "type": "nonveg",
         "orderBefore": "10-21-2023",
         "active": 1,
         "name": "Mutton Combo",
@@ -620,7 +620,7 @@
       },
       {
         "orderAfter": "10-13-2023",
-        "type": "nonveg",
+        "type": "veg",
         "orderBefore": "10-21-2023",
         "active": 1,
         "name": "Paneer Combo",
