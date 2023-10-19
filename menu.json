@@ -232,6 +232,15 @@
         "price": "18",
         "img": "fish-fry.jpg"
       },
+        {
+        "type": "veg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2023",
+        "active": 0,
+        "name": "Paneer Malai Kopta Curry",
+        "price": "20",
+        "img": "fish-fry.jpg"
+      },
       {
         "type": "veg",
         "orderAfter": "10-13-2023",
