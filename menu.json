@@ -4,6 +4,7 @@
     "starter": [
       {
         "type": "nonveg",
+        "orderAfter": "10-20-2023",
         "orderBefore": "12-31-2023",
         "active": 1,
         "name": "Chicken Momo(10 pics)",
@@ -17,6 +18,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
         "active": 1,
         "name": "Chingri Cutlet(4pics)",
@@ -25,6 +27,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
         "active": 1,
         "name": "Fish Fry (2pics)",
@@ -33,6 +36,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
         "active": 1,
         "name": "Fish Chop (4pics)",
@@ -41,6 +45,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
         "active": 1,
         "name": "Egg Chicken Kathi Roll",
@@ -49,6 +54,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
         "active": 1,
         "name": "Vegetable Chop (6Pics)",
@@ -57,6 +63,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
         "active": 1,
         "name": "Chicken Chop (4Pics)",
@@ -65,14 +72,16 @@
       },
       {
         "type": "nonveg",
-        "orderBefore": "12-31-2023",
-        "active": 0,
+        "orderAfter": "10-13-2023",
+        "orderBefore": "12-21-2023",
+        "active": 1,
         "name": "Egg Devil (5Pics)",
         "price": "12",
         "img": "fish-fry.jpg"
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
         "active": 0,
         "name": "Mutton Chop(4Pics)",
@@ -84,6 +93,7 @@
       {
         "desc": "............Pabda Fish...............",
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
         "active": 1,
         "name": "Pabda Sorse Posto(5 pics)",
@@ -93,8 +103,9 @@
       {
         "desc": "............Hilsha Fish...............",
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
-        "active": 0,
+        "active": 1,
         "name": "ILish Vapa(3 pics)",
         "price": "26",
         "img": "fish-fry.jpg"
@@ -102,6 +113,7 @@
       {
         "desc": "",
         "type": "nonveg",
+        "orderAfter": "10-20-2023",
         "orderBefore": "10-28-2023",
         "active": 1,
         "name": "Sorse ILish(3 pics)",
@@ -111,6 +123,7 @@
       {
         "desc": "............Rui Fish...............",
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Fish Rezala(6 pics)",
@@ -119,6 +132,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Rui Curry(6 pics)",
@@ -127,6 +141,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Sabji Rui(6 pics)",
@@ -135,6 +150,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Fish Dopayaja(6 pics)",
@@ -144,6 +160,7 @@
       {
         "type": "nonveg",
         "desc": "............Pomfret Fish...............",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Sorse Pomfret(5 pics)",
@@ -152,6 +169,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Pomfret Sorse Posto(5 pics)",
@@ -160,8 +178,9 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
-        "active": 0,
+        "active": 1,
         "name": "Pomfret curry(5 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -169,6 +188,7 @@
       {
         "type": "nonveg",
         "desc": "............Chingri Fish...............",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Chingri Posto",
@@ -177,6 +197,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-20-2023",
         "orderBefore": "10-28-2023",
         "active": 1,
         "name": "Chingri Masala",
@@ -185,8 +206,9 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
-        "active": 0,
+        "active": 1,
         "name": "Chingri Dopayaja",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -194,6 +216,7 @@
       {
         "desc": "............Paneer...............",
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Paneer Rezala",
@@ -202,6 +225,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Paneer Kopta Curry",
@@ -210,6 +234,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Paneer Butter Masala",
@@ -219,6 +244,7 @@
       {
         "type": "nonveg",
         "desc": "............Fish with Vegetable...............",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Lau Chingri",
@@ -227,6 +253,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Patal Chingri",
@@ -235,6 +262,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Kochu Chingri Ghonto",
@@ -243,6 +271,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Moog Daler Muri Ghonto",
@@ -251,6 +280,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Macher Matha Dia Badhakopi Tarkari",
@@ -260,15 +290,17 @@
       {
         "desc": "............Special Veg...............",
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
-        "active": 0,
+        "active": 1,
         "name": "Sukto",
         "price": "18",
         "img": "fish-fry.jpg"
       },
       {
         "type": "veg",
-        "orderBefore": "10-21-2023",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-28-2023",
         "active": 1,
         "name": "Paneer Navaratan Korma",
         "price": "23",
@@ -276,6 +308,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Dhokar Dalna",
@@ -284,6 +317,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Alu Vendi Masala",
@@ -292,6 +326,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Palong Saker Ghonto",
@@ -300,6 +335,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Palong Saker Ghonto",
@@ -308,6 +344,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Alu potal tarkari",
@@ -317,6 +354,7 @@
       {
         "desc": "............Veg...............",
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Chana Paneer",
@@ -325,6 +363,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Cauliflower Roast",
@@ -333,6 +372,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Fulkopi Alu curry",
@@ -341,6 +381,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Badhakopi Tarkari",
@@ -349,6 +390,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Alu Soya Curry",
@@ -357,6 +399,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Beans Alu Posto",
@@ -365,6 +408,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Kumror Tarkari",
@@ -373,6 +417,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Pepe Chola Alu Tarkari",
@@ -381,6 +426,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Mashroom Curry",
@@ -390,6 +436,7 @@
       {
         "desc": "............Chicken...............",
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Chicken Curry",
@@ -398,6 +445,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Dohi Chicken",
@@ -406,6 +454,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Chicken Vapa",
@@ -414,6 +463,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Ghondhoraj Chicken",
@@ -422,6 +472,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Chicken Dopayaja",
@@ -430,6 +481,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 1,
         "name": "Chicken Dakbungalow",
@@ -439,7 +491,8 @@
       {
         "desc": "............Mutton...............",
         "type": "nonveg",
-        "orderBefore": "10-21-2023",
+        "orderAfter": "10-20-2023",
+        "orderBefore": "10-28-2023",
         "active": 1,
         "name": "Mutton(Goat) Curry",
         "price": "30",
@@ -448,7 +501,8 @@
       {
         "desc": "............Egg...............",
         "type": "nonveg",
-        "orderBefore": "10-21-2023",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-28-2023",
         "active": 1,
         "name": "Egg Curry(4/8 pics)",
         "price": "10/$19",
@@ -456,6 +510,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Egg Dopayaja(4/8 pics)",
@@ -466,6 +521,7 @@
     "combo": [
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Chole Bhature",
@@ -478,6 +534,7 @@
       },
       {
         "type": "veg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Roti Combo-1",
@@ -491,6 +548,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Roti Combo-3",
@@ -504,6 +562,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Roti Combo-2",
@@ -517,6 +576,7 @@
       },
       {
         "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Roti Combo-2",
@@ -529,7 +589,7 @@
         "img": "bread-barrel.jpg"
       },
       {
-        "orderAfter": "09-15-2023",
+        "orderAfter": "10-13-2023",
         "type": "veg",
         "orderBefore": "10-21-2023",
         "active": 1,
@@ -544,7 +604,7 @@
         "img": "bread-barrel.jpg"
       },
       {
-        "orderAfter": "09-15-2023",
+        "orderAfter": "10-13-2023",
         "type": "veg",
         "orderBefore": "10-21-2023",
         "active": 1,
@@ -559,7 +619,7 @@
         "img": "bread-barrel.jpg"
       },
       {
-        "orderAfter": "09-15-2023",
+        "orderAfter": "10-13-2023",
         "type": "nonveg",
         "orderBefore": "10-21-2023",
         "active": 1,
