@@ -175,8 +175,18 @@
    * Menu isotope and filter
    */
   window.addEventListener('load', () => {
-    let menuContainer = select('.menu-container');
-    if (menuContainer) {
+    //let menuContainer = select('.menu-container');
+	let menuContainers = $('.menu-container').select()
+ if (menuContainers) {
+	 $.each(menuContainers, function (i, menuContainer) {
+		addListener(menuContainer); 
+	 });
+ }
+
+  });
+  
+  function addListener(menuContainer){
+	     if (menuContainer) {
       let menuIsotope = new Isotope(menuContainer, {
         itemSelector: '.menu-item',
         layoutMode: 'fitRows'
@@ -198,9 +208,8 @@
           AOS.refresh()
         });
       }, true);
-    }
-
-  });
+    } 
+  }
 
   /**
    * Initiate glightbox 
