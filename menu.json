@@ -539,7 +539,7 @@
         "desc": "............Rice...............",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-28-2023",
-        "active": 0,
+        "active": 1,
         "name": "Basanti pulao",
         "price": "10$",
         "img": "fish-fry.jpg"
