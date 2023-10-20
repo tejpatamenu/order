@@ -256,8 +256,11 @@
          });
 	function addMenuLines(items,type,menuType){
 		 			if(items){
+						 let today = new Date();
+						today.setDate(today.getDate() +6);
 			$.each(items, function (i, item) {
-				if(item.active){
+				if((today  < orderBefore && today > orderAfter) && item.active){
+					
 					var menuLine = $("<div>", {id: "foo", "class":type });
 
 				       var title = '<div class="'+item.type+'"> <div class="circle-'+item.type+'"></div></div><div class="menu-content" style="margin-top: 0px;">'+
