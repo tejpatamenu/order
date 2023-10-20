@@ -73,7 +73,7 @@
       {
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "12-21-2023",
+        "orderBefore": "10-21-2023",
         "active": 1,
         "name": "Egg Devil (5Pics)",
         "price": "12",
@@ -229,7 +229,15 @@
         "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Paneer Kopta Curry",
-        "price": "18",
+        "price": "20",
+        "img": "fish-fry.jpg"
+      },      {
+        "type": "veg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2023",
+        "active": 0,
+        "name": "Dahi Paneer",
+        "price": "20",
         "img": "fish-fry.jpg"
       },
         {
@@ -520,10 +528,20 @@
       {
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
+        "orderBefore": "10-28-2023",
         "active": 0,
         "name": "Egg Dopayaja(4/8 pics)",
         "price": "12/$20",
+        "img": "fish-fry.jpg"
+      },
+       {
+        "type": "veg",
+        "desc": "............Rice...............",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-28-2023",
+        "active": 0,
+        "name": "Basanti pulao",
+        "price": "10$",
         "img": "fish-fry.jpg"
       }
     ],
