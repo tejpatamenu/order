@@ -507,9 +507,9 @@
       },
       {
         "type": "nonveg",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderAfter": "10-27-2023",
+        "orderBefore": "11-04-2023",
+        "active": 1,
         "name": "Chicken Dopayaja",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -556,7 +556,7 @@
         "type": "nonveg",
         "orderAfter": "10-27-2023",
         "orderBefore": "11-04-2023",
-        "active": 0,
+        "active": 1,
         "name": "Omlet Curry",
         "price": "14",
         "img": "fish-fry.jpg"
