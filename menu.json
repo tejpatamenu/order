@@ -570,6 +570,16 @@
         "name": "Basanti pulao",
         "price": "10",
         "img": "fish-fry.jpg"
+      },
+       {
+        "type": "veg",
+        "desc": "............Roti...............",
+        "orderAfter": "10-27-2023",
+        "orderBefore": "12-31-2023",
+        "active": 1,
+        "name": "Roti (6 Pics)",
+        "price": "9",
+        "img": "fish-fry.jpg"
       }
     ],
     "combo": [
@@ -632,7 +642,7 @@
         "type": "veg",
         "orderAfter": "10-27-2023",
         "orderBefore": "11-04-2023",
-        "active": 0,
+        "active": 1,
         "name": "Roti Combo",
         "ingredients": [
           "Roti(4Pics)",
