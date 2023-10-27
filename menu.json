@@ -387,6 +387,15 @@
         "price": "18",
         "img": "fish-fry.jpg"
       },
+       {
+        "type": "veg",
+        "orderAfter": "10-27-2023",
+        "orderBefore": "11-04-2023",
+        "active": 1,
+        "name": "Bori Begun Curry",
+        "price": "18",
+        "img": "fish-fry.jpg"
+      },
       {
         "type": "veg",
         "orderAfter": "10-13-2023",
@@ -544,6 +553,15 @@
         "img": "fish-fry.jpg"
       },
        {
+        "type": "nonveg",
+        "orderAfter": "10-27-2023",
+        "orderBefore": "11-04-2023",
+        "active": 0,
+        "name": "Omlet Curry",
+        "price": "14",
+        "img": "fish-fry.jpg"
+      },
+       {
         "type": "veg",
         "desc": "............Rice...............",
         "orderAfter": "10-13-2023",
@@ -611,17 +629,17 @@
         "img": "bread-barrel.jpg"
       },
       {
-        "type": "nonveg",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
+        "type": "veg",
+        "orderAfter": "10-27-2023",
+        "orderBefore": "11-04-2023",
         "active": 0,
-        "name": "Roti Combo-2",
+        "name": "Roti Combo",
         "ingredients": [
           "Roti(4Pics)",
-          "Ghugni",
+          "Aloo Daam",
           "Pickle"
         ],
-        "price": "11",
+        "price": "12",
         "img": "bread-barrel.jpg"
       },
       {
