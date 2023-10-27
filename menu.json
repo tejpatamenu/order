@@ -10,10 +10,9 @@
         "name": "Chicken Momo(10 pics)",
         "ingredients": [
           "Momo",
-          "Soup",
           "Schezwan Chgatni"
         ],
-        "price": "15",
+        "price": "12",
         "img": "fish-fry.jpg"
       },
       {
@@ -95,7 +94,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
-        "active": 1,
+        "active": 0,
         "name": "Pabda Sorse Posto(5 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -105,7 +104,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
-        "active": 1,
+        "active": 0,
         "name": "ILish Vapa(3 pics)",
         "price": "26",
         "img": "fish-fry.jpg"
@@ -114,7 +113,7 @@
         "desc": "",
         "type": "nonveg",
         "orderAfter": "10-20-2023",
-        "orderBefore": "10-28-2023",
+        "orderBefore": "11-04-2023",
         "active": 1,
         "name": "Sorse ILish(3 pics)",
         "price": "26",
@@ -180,7 +179,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
-        "active": 1,
+        "active": 0,
         "name": "Pomfret curry(5 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -206,8 +205,8 @@
       },
       {
         "type": "nonveg",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
+        "orderAfter": "10-27-2023",
+        "orderBefore": "11-04-2023",
         "active": 1,
         "name": "Chingri Dopayaja",
         "price": "20",
@@ -251,10 +250,10 @@
       },
       {
         "type": "veg",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
-        "name": "Paneer Butter Masala",
+        "orderAfter": "10-27-2023",
+        "orderBefore": "11-04-2023",
+        "active": 1,
+        "name": "Paneer  Masala",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -286,6 +285,7 @@
         "price": "20",
         "img": "fish-fry.jpg"
       },
+
       {
         "type": "nonveg",
         "orderAfter": "10-13-2023",
@@ -308,7 +308,7 @@
         "desc": "............Special Veg...............",
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
+        "orderBefore": "11-04-2023",
         "active": 1,
         "name": "Sukto",
         "price": "18",
@@ -334,9 +334,9 @@
       },
       {
         "type": "veg",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderAfter": "10-27-2023",
+        "orderBefore": "11-04-2023",
+        "active": 1,
         "name": "Alu Vendi Masala",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -348,6 +348,15 @@
         "active": 0,
         "name": "Palong Saker Ghonto",
         "price": "18",
+        "img": "fish-fry.jpg"
+      },
+     {
+        "type": "veg",
+        "orderAfter": "10-27-2023",
+        "orderBefore": "11-04-2023",
+        "active": 1,
+        "name": "Kochu Palang Ghonto",
+        "price": "20",
         "img": "fish-fry.jpg"
       },
       {
