@@ -437,7 +437,7 @@
         "type": "veg",
         "orderAfter": "11-18-2023",
         "orderBefore": "11-28-2023",
-        "active": 0,
+        "active": 1,
         "name": "Badhakopi Tarkari",
         "price": "10",
         "img": "fish-fry.jpg"
@@ -558,7 +558,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-28-2023",
         "active": 1,
-        "name": "Egg Curry(4/8 pics)",
+        "name": "Egg Curry with Aloo(4/8 pics)",
         "price": "10/$19",
         "img": "fish-fry.jpg"
       },
