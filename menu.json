@@ -309,7 +309,7 @@
         "type": "nonveg",
         "orderAfter": "11-24-2023",
         "orderBefore": "12-04-2023",
-        "active": 0,
+        "active": 1,
         "name": "Macher Matha Dia Badhakopi Tarkari",
         "price": "12",
         "img": "fish-fry.jpg"
@@ -362,20 +362,20 @@
       },
       {
         "type": "veg",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderAfter": "11-24-2023",
+        "orderBefore": "12-04-2023",
+        "active": 1,
         "name": "Palong Saker Ghonto",
         "price": "18",
         "img": "fish-fry.jpg"
       },
      {
         "type": "veg",
-        "orderAfter": "10-27-2023",
-        "orderBefore": "11-04-2023",
+        "orderAfter": "11-24-2023",
+        "orderBefore": "12-04-2023",
         "active": 1,
         "name": "Kochu Palang Ghonto",
-        "price": "20",
+        "price": "18",
         "img": "fish-fry.jpg"
       },
       {
