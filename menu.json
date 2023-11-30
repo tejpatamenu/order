@@ -114,7 +114,7 @@
         "type": "nonveg",
         "orderAfter": "12-01-2023",
         "orderBefore": "12-18-2023",
-        "active": 0,
+        "active": 1,
         "name": "ILish Vapa(4 pics)",
         "price": "28",
         "img": "fish-fry.jpg"
@@ -124,7 +124,7 @@
         "type": "nonveg",
         "orderAfter": "12-01-2023",
         "orderBefore": "12-18-2023",
-        "active": 0,
+        "active": 1,
         "name": "ILish Paturi(4 pics)",
         "price": "32",
         "img": "fish-fry.jpg"
