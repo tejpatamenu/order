@@ -112,11 +112,21 @@
       {
         "desc": "............Hilsha Fish...............",
         "type": "nonveg",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
+        "orderAfter": "12-01-2023",
+        "orderBefore": "12-18-2023",
         "active": 0,
-        "name": "ILish Vapa(3 pics)",
-        "price": "26",
+        "name": "ILish Vapa(4 pics)",
+        "price": "28",
+        "img": "fish-fry.jpg"
+      },
+      {
+        "desc": "............Hilsha Fish...............",
+        "type": "nonveg",
+        "orderAfter": "12-01-2023",
+        "orderBefore": "12-18-2023",
+        "active": 0,
+        "name": "ILish Paturi(4 pics)",
+        "price": "32",
         "img": "fish-fry.jpg"
       },
       {
@@ -142,7 +152,7 @@
       {
         "type": "nonveg",
         "orderAfter": "11-18-2023",
-        "orderBefore": "12-04-2023",
+        "orderBefore": "12-18-2023",
         "active": 1,
         "name": "Rui Curry with Aloo(6 pics)",
         "price": "20",
@@ -169,9 +179,9 @@
       {
         "type": "nonveg",
         "desc": "............Pomfret Fish...............",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderAfter": "12-01-2023",
+        "orderBefore": "12-18-2023",
+        "active": 1,
         "name": "Sorse Pomfret(5 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -179,7 +189,7 @@
       {
         "type": "nonveg",
         "orderAfter": "11-24-2023",
-        "orderBefore": "12-04-2023",
+        "orderBefore": "12-02-2023",
         "active": 1,
         "name": "Pomfret Sorse Posto(5 pics)",
         "price": "20",
@@ -206,8 +216,8 @@
       },
       {
         "type": "nonveg",
-        "orderAfter": "11-17-2023",
-        "orderBefore": "11-25-2023",
+        "orderAfter": "12-01-2023",
+        "orderBefore": "12-09-2023",
         "active": 1,
         "name": "Chingri Masala",
         "price": "20",
@@ -216,7 +226,7 @@
       {
         "type": "nonveg",
         "orderAfter": "11-24-2023",
-        "orderBefore": "12-04-2023",
+        "orderBefore": "12-02-2023",
         "active": 1,
         "name": "Chingri Dopayaja(8-9 Pics)",
         "price": "20",
@@ -270,9 +280,9 @@
       {
         "type": "nonveg",
         "desc": "............Fish with Vegetable...............",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderAfter": "12-01-2023",
+        "orderBefore": "12-09-2023",
+        "active": 1,
         "name": "Lau Chingri",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -308,7 +318,7 @@
       {
         "type": "nonveg",
         "orderAfter": "11-24-2023",
-        "orderBefore": "12-04-2023",
+        "orderBefore": "12-09-2023",
         "active": 1,
         "name": "Macher Matha Dia Badhakopi Tarkari",
         "price": "12",
@@ -318,7 +328,7 @@
         "desc": "............Special Veg...............",
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "11-18-2023",
+        "orderBefore": "12-18-2023",
         "active": 1,
         "name": "Sukto",
         "price": "18",
