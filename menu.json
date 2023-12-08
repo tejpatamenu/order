@@ -412,16 +412,16 @@
         "type": "veg",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-16-2023",
-        "active": 1,
+        "active": 0,
         "name": "Kochu Palang Ghonto",
         "price": "18",
         "img": "fish-fry.jpg"
       },
       {
         "type": "veg",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderAfter": "12-08-2023",
+        "orderBefore": "12-16-2023",
+        "active": 1,
         "name": "Palong Saker Ghonto",
         "price": "18",
         "img": "fish-fry.jpg"
