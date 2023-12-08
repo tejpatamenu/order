@@ -329,7 +329,7 @@
         "type": "nonveg",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-16-2023",
-        "active": 0,
+        "active": 1,
         "name": "Kochu Chingri Ghonto",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -410,8 +410,8 @@
       },
      {
         "type": "veg",
-        "orderAfter": "11-24-2023",
-        "orderBefore": "12-04-2023",
+        "orderAfter": "12-08-2023",
+        "orderBefore": "12-16-2023",
         "active": 1,
         "name": "Kochu Palang Ghonto",
         "price": "18",
