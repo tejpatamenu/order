@@ -400,6 +400,15 @@
         "price": "18",
         "img": "fish-fry.jpg"
       },
+            {
+        "type": "veg",
+        "orderAfter": "12-15-2023",
+        "orderBefore": "12-23-2023",
+        "active": 1,
+        "name": "Kachkolar Kopta curry",
+        "price": "18",
+        "img": "fish-fry.jpg"
+      },
       {
         "type": "veg",
         "orderAfter": "12-08-2023",
