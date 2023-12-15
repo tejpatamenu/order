@@ -46,7 +46,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2023",
-        "active": 1,
+        "active": 0,
         "name": "Egg Chicken Kathi Roll",
         "price": "10",
         "img": "fish-fry.jpg"
