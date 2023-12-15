@@ -89,6 +89,16 @@
       }
     ],
     "main": [
+                  {
+        "desc": "............Vetki Fish...............",
+        "type": "nonveg",
+        "orderAfter": "12-15-2023",
+        "orderBefore": "12-23-2023",
+        "active": 1,
+        "name": "Vetki Kalia(6 Pics)",
+        "price": "25",
+        "img": "fish-fry.jpg"
+      },
             {
         "desc": "............Bata Fish...............",
         "type": "nonveg",
@@ -102,20 +112,20 @@
        {
         "desc": "............Tangra Fish...............",
         "type": "nonveg",
-        "orderAfter": "12-08-2023",
-        "orderBefore": "12-16-2023",
-        "active": 0,
-        "name": "Tangra Macher Jhal",
+        "orderAfter": "12-15-2023",
+        "orderBefore": "12-23-2023",
+        "active": 1,
+        "name": "Tangra Macher Jhal(1 lb)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
              {
         "desc": "............Koi Fish...............",
         "type": "nonveg",
-        "orderAfter": "12-08-2023",
-        "orderBefore": "12-16-2023",
-        "active": 0,
-        "name": "Koi macher jhal",
+        "orderAfter": "12-15-2023",
+        "orderBefore": "12-23-2023",
+        "active": 1,
+        "name": "Tel Koi (1 lb)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -171,8 +181,8 @@
       },
       {
         "type": "nonveg",
-        "orderAfter": "11-18-2023",
-        "orderBefore": "12-18-2023",
+        "orderAfter": "12-15-2023",
+        "orderBefore": "12-23-2023",
         "active": 1,
         "name": "Rui Curry with Aloo(6 pics)",
         "price": "20",
