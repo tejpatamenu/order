@@ -89,16 +89,7 @@
       }
     ],
     "main": [
-                  {
-        "desc": "............Vetki Fish...............",
-        "type": "nonveg",
-        "orderAfter": "12-15-2023",
-        "orderBefore": "12-30-2024",
-        "active": 1,
-        "name": "Vetki Kalia(6 Pics)",
-        "price": "25",
-        "img": "fish-fry.jpg"
-      },
+                 
             {
         "desc": "............Bata Fish...............",
         "type": "nonveg",
@@ -232,6 +223,15 @@
         "active": 0,
         "name": "Pomfret curry(5 pics)",
         "price": "18",
+        "img": "fish-fry.jpg"
+      }, {
+        "desc": "............Vetki Fish...............",
+        "type": "nonveg",
+        "orderAfter": "12-15-2023",
+        "orderBefore": "12-30-2024",
+        "active": 1,
+        "name": "Vetki Kalia(6 Pics)",
+        "price": "25",
         "img": "fish-fry.jpg"
       },
       {
