@@ -5,7 +5,7 @@
       {
         "type": "nonveg",
         "orderAfter": "10-20-2023",
-        "orderBefore": "12-31-2023",
+        "orderBefore": "12-31-2024",
         "active": 1,
         "name": "Chicken Momo(10 pics)",
         "ingredients": [
@@ -27,7 +27,7 @@
       {
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "12-31-2023",
+        "orderBefore": "12-31-2024",
         "active": 1,
         "name": "Fish Fry (2pics)",
         "price": "10",
@@ -36,7 +36,7 @@
       {
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "12-31-2023",
+        "orderBefore": "12-31-2024",
         "active": 1,
         "name": "Fish Chop (4pics)",
         "price": "12",
@@ -54,7 +54,7 @@
       {
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "12-31-2023",
+        "orderBefore": "12-31-2024",
         "active": 0,
         "name": "Vegetable Chop (6Pics)",
         "price": "12",
@@ -63,7 +63,7 @@
       {
         "type": "nonveg",
         "orderAfter": "11-18-2023",
-        "orderBefore": "12-18-2023",
+        "orderBefore": "12-18-2024",
         "active": 1,
         "name": "Chicken Chop (4Pics)",
         "price": "12",
@@ -93,7 +93,7 @@
         "desc": "............Vetki Fish...............",
         "type": "nonveg",
         "orderAfter": "12-15-2023",
-        "orderBefore": "12-30-2023",
+        "orderBefore": "12-30-2024",
         "active": 1,
         "name": "Vetki Kalia(6 Pics)",
         "price": "25",
@@ -163,7 +163,7 @@
         "desc": "",
         "type": "nonveg",
         "orderAfter": "12-08-2023",
-        "orderBefore": "12-16-2023",
+        "orderBefore": "12-16-2024",
         "active": 1,
         "name": "Sorse ILish(4 pics)",
         "price": "28",
@@ -182,7 +182,7 @@
       {
         "type": "nonveg",
         "orderAfter": "12-15-2023",
-        "orderBefore": "12-30-2023",
+        "orderBefore": "12-30-2024",
         "active": 1,
         "name": "Rui Curry with Aloo(6 pics)",
         "price": "20",
@@ -210,7 +210,7 @@
         "type": "nonveg",
         "desc": "............Pomfret Fish...............",
         "orderAfter": "12-22-2023",
-        "orderBefore": "12-30-2023",
+        "orderBefore": "12-30-2024",
         "active": 1,
         "name": "Sorse Pomfret(5 pics)",
         "price": "18",
@@ -376,7 +376,7 @@
         "desc": "............Special Veg...............",
         "type": "veg",
         "orderAfter": "12-15-2023",
-        "orderBefore": "12-23-2023",
+        "orderBefore": "12-23-2024",
         "active": 1,
         "name": "Sukto",
         "price": "18",
@@ -422,7 +422,7 @@
       {
         "type": "veg",
         "orderAfter": "12-08-2023",
-        "orderBefore": "12-16-2023",
+        "orderBefore": "12-16-2024",
         "active": 1,
         "name": "Alu Vendi Masala",
         "price": "18",
@@ -582,6 +582,14 @@
         "name": "Dohi Chicken",
         "price": "22",
         "img": "fish-fry.jpg"
+      },{
+        "type": "nonveg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2024",
+        "active": 0,
+        "name": "Dhaba style Chicken masala",
+        "price": "20",
+        "img": "fish-fry.jpg"
       },
       {
         "type": "nonveg",
@@ -610,13 +618,37 @@
         "price": "20",
         "img": "fish-fry.jpg"
       },
-      {
+     {
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 1,
         "name": "Chicken Dakbungalow",
         "price": "23",
+        "img": "fish-fry.jpg"
+      },{
+        "type": "nonveg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2024",
+        "active": 1,
+        "name": "Chilli Chicken",
+        "price": "20",
+        "img": "fish-fry.jpg"
+      },{
+        "type": "nonveg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2023",
+        "active": 1,
+        "name": "Chicken Dakbungalow",
+        "price": "23",
+        "img": "fish-fry.jpg"
+      },{
+        "type": "nonveg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2024",
+        "active": 1,
+        "name": "Bengali style Fried rice",
+        "price": "14",
         "img": "fish-fry.jpg"
       },
       {
@@ -633,7 +665,7 @@
         "desc": "............Egg...............",
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "12-28-2023",
+        "orderBefore": "12-28-2024",
         "active": 1,
         "name": "Egg Curry with Aloo(4/8 pics)",
         "price": "10/$19",
