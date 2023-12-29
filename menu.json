@@ -637,6 +637,15 @@
       },{
         "type": "nonveg",
         "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2024",
+        "active": 1,
+        "name": "Garlic butter Chicken",
+        "price": "20",
+        "img": "fish-fry.jpg"
+      },
+       {
+        "type": "nonveg",
+        "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 1,
         "name": "Chicken Dakbungalow",
