@@ -585,7 +585,7 @@
       },{
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2024",
+        "orderBefore": "10-21-2023",
         "active": 0,
         "name": "Dhaba style Chicken masala",
         "price": "20",
@@ -638,7 +638,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Garlic butter Chicken",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -655,7 +655,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Bengali style Fried rice",
         "price": "14",
         "img": "fish-fry.jpg"
