@@ -94,7 +94,7 @@
         "desc": "............Bata Fish...............",
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "12-30-2023",
+        "orderBefore": "01-30-2024",
         "active": 1,
         "name": "Aloo dia Bata Macher Jhal(7 Pics)",
         "price": "20",
@@ -154,7 +154,7 @@
         "desc": "",
         "type": "nonveg",
         "orderAfter": "12-08-2023",
-        "orderBefore": "01-13-2024",
+        "orderBefore": "01-30-2024",
         "active": 1,
         "name": "Sorse ILish(4 pics)",
         "price": "28",
@@ -201,7 +201,7 @@
         "type": "nonveg",
         "desc": "............Pomfret Fish...............",
         "orderAfter": "12-22-2023",
-        "orderBefore": "12-30-2023",
+        "orderBefore": "12-30-2024",
         "active": 1,
         "name": "Sorse Pomfret(5 pics)",
         "price": "18",
@@ -238,7 +238,7 @@
         "type": "nonveg",
         "desc": "............Chingri Fish...............",
         "orderAfter": "12-08-2023",
-        "orderBefore": "12-16-2023",
+        "orderBefore": "12-16-2024",
         "active": 1,
         "name": "Chingri Posto",
         "price": "18",
@@ -458,10 +458,10 @@
       {
         "type": "veg",
         "orderAfter": "12-08-2023",
-        "orderBefore": "12-16-2023",
+        "orderBefore": "12-16-2024",
         "active": 1,
-        "name": "Palong Saker Ghonto",
-        "price": "18",
+        "name": "Sabji Mug daal",
+        "price": "14",
         "img": "fish-fry.jpg"
       },
       {
@@ -522,8 +522,8 @@
       {
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderBefore": "10-21-2024",
+        "active": 1,
         "name": "Alu Soya Curry",
         "price": "10",
         "img": "fish-fry.jpg"
@@ -562,6 +562,33 @@
         "active": 0,
         "name": "Mashroom Curry",
         "price": "18",
+        "img": "fish-fry.jpg"
+      },
+            {
+        "type": "veg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2024",
+        "active": 1,
+        "name": "Labra",
+        "price": "16",
+        "img": "fish-fry.jpg"
+      },
+                  {
+        "type": "veg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2024",
+        "active": 1,
+        "name": "Dahi Begun",
+        "price": "15",
+        "img": "fish-fry.jpg"
+      },
+                  {
+        "type": "veg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-21-2024",
+        "active": 1,
+        "name": "Aloo Posto",
+        "price": "15",
         "img": "fish-fry.jpg"
       },
       {
