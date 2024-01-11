@@ -595,9 +595,19 @@
         "desc": "............Chicken...............",
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "01-13-2024",
+        "orderBefore": "01-30-2024",
         "active": 1,
         "name": "Chicken Curry with Aloo(9 Pics)",
+        "price": "20",
+        "img": "fish-fry.jpg"
+      },
+            {
+        "desc": "............Chicken...............",
+        "type": "nonveg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "01-30-2024",
+        "active": 1,
+        "name": "Dahi Chicken (9 Pics)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -703,7 +713,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-28-2024",
         "active": 1,
-        "name": "Egg Curry with Aloo(4/8 pics)",
+        "name": "Egg Curry/Posto (4/8 pics)",
         "price": "10/$19",
         "img": "fish-fry.jpg"
       },
