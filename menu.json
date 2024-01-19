@@ -95,11 +95,21 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "01-30-2024",
-        "active": 1,
+        "active": 0,
         "name": "Aloo dia Bata Macher Jhal(7 Pics)",
         "price": "20",
         "img": "fish-fry.jpg"
+      },{
+        "desc": "............Bata Fish...............",
+        "type": "nonveg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "01-30-2024",
+        "active": 1,
+        "name": "Bata Macher posto(7 Pics)",
+        "price": "20",
+        "img": "fish-fry.jpg"
       },
+    
        {
         "desc": "............Tangra Fish...............",
         "type": "nonveg",
@@ -124,7 +134,7 @@
         "desc": "............Pabda Fish...............",
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "01-13-2024",
+        "orderBefore": "02-13-2024",
         "active": 1,
         "name": "Pabda Sorse Posto(8 pics)",
         "price": "20",
@@ -134,9 +144,9 @@
         "desc": "............Hilsha Fish...............",
         "type": "nonveg",
         "orderAfter": "12-01-2023",
-        "orderBefore": "12-09-2023",
+        "orderBefore": "12-09-2024",
         "active": 1,
-        "name": "ILish Vapa(4 pics)",
+        "name": "Begun ILish(4 pics)",
         "price": "28",
         "img": "fish-fry.jpg"
       },
@@ -155,7 +165,7 @@
         "type": "nonveg",
         "orderAfter": "12-08-2023",
         "orderBefore": "01-30-2024",
-        "active": 1,
+        "active": 0,
         "name": "Sorse ILish(4 pics)",
         "price": "28",
         "img": "fish-fry.jpg"
@@ -202,7 +212,7 @@
         "desc": "............Pomfret Fish...............",
         "orderAfter": "12-22-2023",
         "orderBefore": "12-30-2024",
-        "active": 1,
+        "active": 0,
         "name": "Sorse Pomfret(5 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -395,18 +405,18 @@
       {
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-28-2023",
+        "orderBefore": "10-28-2024",
         "active": 1,
         "name": "Paneer Navaratan Korma",
-        "price": "23",
+        "price": "20",
         "img": "fish-fry.jpg"
       },
       {
         "type": "veg",
         "orderAfter": "12-22-2023",
-        "orderBefore": "12-30-2023",
+        "orderBefore": "12-30-2024",
         "active": 1,
-        "name": "Sim alu begun bori tarkari",
+        "name": "Musur deal er bora dia alu phool kopi",
         "price": "18",
         "img": "fish-fry.jpg"
       },
