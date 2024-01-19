@@ -469,7 +469,7 @@
         "type": "veg",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-16-2024",
-        "active": 1,
+        "active": 0,
         "name": "Sabji Mug daal",
         "price": "14",
         "img": "fish-fry.jpg"
@@ -496,9 +496,9 @@
        {
         "type": "veg",
         "orderAfter": "10-27-2023",
-        "orderBefore": "11-04-2023",
+        "orderBefore": "11-04-2024",
         "active": 1,
-        "name": "Bori Begun Curry",
+        "name": "Bori Begun Jhal",
         "price": "18",
         "img": "fish-fry.jpg"
       },
@@ -533,7 +533,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Alu Soya Curry",
         "price": "12",
         "img": "fish-fry.jpg"
@@ -578,7 +578,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Labra",
         "price": "16",
         "img": "fish-fry.jpg"
@@ -587,7 +587,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Dahi Begun",
         "price": "15",
         "img": "fish-fry.jpg"
@@ -596,7 +596,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Aloo Posto",
         "price": "15",
         "img": "fish-fry.jpg"
