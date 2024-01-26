@@ -7,7 +7,7 @@
         "orderAfter": "10-20-2023",
         "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "Chicken Momo(10 pics)",
+        "name": "Chicken Momo(10 pics) min 2plate ",
         "ingredients": [
           "Momo",
           "Schezwan Chgatni"
@@ -95,7 +95,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "01-30-2024",
-        "active": 0,
+        "active": 1,
         "name": "Aloo dia Bata Macher Jhal(7 Pics)",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -104,7 +104,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "01-30-2024",
-        "active": 1,
+        "active": 0,
         "name": "Bata Macher posto(7 Pics)",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -145,7 +145,7 @@
         "type": "nonveg",
         "orderAfter": "12-01-2023",
         "orderBefore": "12-09-2024",
-        "active": 1,
+        "active": 0,
         "name": "Begun ILish(4 pics)",
         "price": "28",
         "img": "fish-fry.jpg"
@@ -320,7 +320,7 @@
             {
         "type": "veg",
         "orderAfter": "12-22-2023",
-        "orderBefore": "01-13-2024",
+        "orderBefore": "02-13-2024",
         "active": 1,
         "name": "Chana Dalna",
         "price": "18",
@@ -330,7 +330,7 @@
         "type": "nonveg",
         "desc": "............Fish with Vegetable...............",
         "orderAfter": "12-01-2023",
-        "orderBefore": "01-13-2024",
+        "orderBefore": "02-13-2024",
         "active": 1,
         "name": "Lau Chingri",
         "price": "18",
@@ -386,7 +386,7 @@
         "desc": "............Special Veg...............",
         "type": "veg",
         "orderAfter": "12-15-2023",
-        "orderBefore": "12-23-2023",
+        "orderBefore": "12-23-2024",
         "active": 1,
         "name": "Sukto",
         "price": "18",
@@ -432,7 +432,7 @@
       {
         "type": "veg",
         "orderAfter": "12-08-2023",
-        "orderBefore": "12-16-2023",
+        "orderBefore": "12-16-2024",
         "active": 1,
         "name": "Alu Vendi Masala",
         "price": "18",
