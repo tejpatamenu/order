@@ -605,7 +605,7 @@
         "desc": "............Chicken...............",
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "01-30-2024",
+        "orderBefore": "02-30-2024",
         "active": 1,
         "name": "Chicken Curry with Aloo(9 Pics)",
         "price": "20",
@@ -677,7 +677,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Chilli Chicken",
         "price": "20",
         "img": "fish-fry.jpg"
