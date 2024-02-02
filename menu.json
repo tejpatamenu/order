@@ -185,7 +185,7 @@
         "orderAfter": "12-15-2023",
         "orderBefore": "12-30-2024",
         "active": 1,
-        "name": "Rui Curry with Aloo(6 pics)",
+        "name": "Rui Posto(6 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -331,7 +331,7 @@
         "desc": "............Fish with Vegetable...............",
         "orderAfter": "12-01-2023",
         "orderBefore": "02-13-2024",
-        "active": 1,
+        "active": 0,
         "name": "Lau Chingri",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -358,7 +358,7 @@
         "type": "nonveg",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-16-2024",
-        "active": 1,
+        "active": 0,
         "name": "Kochu Chingri Ghonto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -406,7 +406,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-28-2024",
-        "active": 0,
+        "active": 1,
         "name": "Paneer Navaratan Korma",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -415,7 +415,7 @@
         "type": "veg",
         "orderAfter": "12-22-2023",
         "orderBefore": "12-30-2024",
-        "active": 1,
+        "active": 0,
         "name": "Musur deal er bora dia alu phool kopi",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -433,7 +433,7 @@
         "type": "veg",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-16-2024",
-        "active": 1,
+        "active": 0,
         "name": "Alu Vendi Masala",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -487,8 +487,8 @@
         "desc": "............Veg...............",
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderBefore": "10-21-2024",
+        "active": 1,
         "name": "Chana Paneer",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -569,7 +569,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Mashroom Curry",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -587,7 +587,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 0,
+        "active": 1,
         "name": "Dahi Begun",
         "price": "15",
         "img": "fish-fry.jpg"
