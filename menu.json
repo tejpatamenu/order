@@ -401,6 +401,14 @@
         "name": "Paneer, Fulkopi aloo dalna",
         "price": "18",
         "img": "fish-fry.jpg"
+      },    {
+        "type": "veg",
+        "orderAfter": "10-13-2023",
+        "orderBefore": "10-28-2024",
+        "active": 1,
+        "name": "Jhinge aloo posto",
+        "price": "20",
+        "img": "fish-fry.jpg"
       },
       {
         "type": "veg",
