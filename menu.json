@@ -139,7 +139,7 @@
         "type": "veg",
         "orderAfter": "12-22-2023",
         "orderBefore": "02-13-2024",
-        "active": 0,
+        "active": 1,
         "name": "Veg kopta curry",
         "price": "18",
         "img": "fish-fry.jpg"
