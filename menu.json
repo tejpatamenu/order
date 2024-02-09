@@ -129,7 +129,7 @@
       {
         "type": "veg",
         "orderAfter": "10-27-2023",
-        "orderBefore": "11-04-2023",
+        "orderBefore": "11-04-2024",
         "active": 1,
         "name": "Kadai Paneer",
         "price": "22",
@@ -196,7 +196,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
         "active": 1,
-        "name": "Enchor Aloo chingri Dalan",
+        "name": "Enchor Aloo chingri Dalna",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -441,7 +441,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Dahi Begun",
         "price": "15",
         "img": "fish-fry.jpg"
@@ -703,7 +703,7 @@
         "type": "nonveg",
         "orderAfter": "12-15-2023",
         "orderBefore": "12-30-2024",
-        "active": 0,
+        "active": 1,
         "name": "Rui Kalia(6 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -768,7 +768,7 @@
         "desc": "............Chingri Fish...............",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-16-2024",
-        "active": 1,
+        "active": 0,
         "name": "Chingri Posto",
         "price": "18",
         "img": "fish-fry.jpg"
