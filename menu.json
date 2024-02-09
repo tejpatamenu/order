@@ -45,7 +45,7 @@
       {
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "01-13-2024",
+        "orderBefore": "02-13-2024",
         "active": 1,
         "name": "Egg Chicken Kathi Roll(2)",
         "price": "20",
@@ -90,21 +90,12 @@
     ],
     "main": [
                  
-            {
+          {
         "desc": "............Bata Fish...............",
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "03-30-2024",
         "active": 1,
-        "name": "Aloo dia Bata Macher Jhal(7 Pics)",
-        "price": "20",
-        "img": "fish-fry.jpg"
-      },{
-        "desc": "............Bata Fish...............",
-        "type": "nonveg",
-        "orderAfter": "10-13-2023",
-        "orderBefore": "01-30-2024",
-        "active": 0,
         "name": "Bata Macher posto(7 Pics)",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -184,8 +175,8 @@
         "type": "nonveg",
         "orderAfter": "12-15-2023",
         "orderBefore": "12-30-2024",
-        "active": 1,
-        "name": "Rui Posto(6 pics)",
+        "active": 0,
+        "name": "Rui Kalia(6 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -243,7 +234,7 @@
         "name": "Vetki Kalia(6 Pics)",
         "price": "25",
         "img": "fish-fry.jpg"
-      },
+         },
       {
         "type": "nonveg",
         "desc": "............Chingri Fish...............",
@@ -287,8 +278,8 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
-        "name": "Paneer Kopta Curry",
-        "price": "20",
+        "name": "Chanar Kopta Curry",
+        "price": "18",
         "img": "fish-fry.jpg"
       },      {
         "type": "veg",
@@ -313,8 +304,8 @@
         "orderAfter": "10-27-2023",
         "orderBefore": "11-04-2023",
         "active": 1,
-        "name": "Paneer  Masala",
-        "price": "20",
+        "name": "Kadai Paneer",
+        "price": "22",
         "img": "fish-fry.jpg"
       },
             {
@@ -376,10 +367,10 @@
       {
         "type": "nonveg",
         "orderAfter": "12-15-2023",
-        "orderBefore": "12-23-2023",
+        "orderBefore": "12-23-2024",
         "active": 1,
-        "name": "Macher Matha Dia Badhakopi Tarkari",
-        "price": "12",
+        "name": "Badhakopi Tarkari",
+        "price": "16",
         "img": "fish-fry.jpg"
       },
       {
@@ -414,7 +405,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-28-2024",
-        "active": 1,
+        "active": 0,
         "name": "Paneer Navaratan Korma",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -477,9 +468,9 @@
         "type": "veg",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-16-2024",
-        "active": 0,
+        "active": 1,
         "name": "Sabji Mug daal",
-        "price": "14",
+        "price": "16",
         "img": "fish-fry.jpg"
       },
       {
@@ -496,7 +487,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Chana Paneer",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -604,9 +595,9 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 0,
-        "name": "Aloo Posto",
-        "price": "15",
+        "active": 1,
+        "name": "Ghugni",
+        "price": "16",
         "img": "fish-fry.jpg"
       },
       {
@@ -615,7 +606,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "02-30-2024",
         "active": 1,
-        "name": "Chicken Curry with Aloo(9 Pics)",
+        "name": "Kasmiri Chicken Curry(9 Pics)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
