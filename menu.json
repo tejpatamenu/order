@@ -185,9 +185,9 @@
       {
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
-        "name": "Patal Chingri",
+        "orderBefore": "12-23-2024",
+        "active": 1,
+        "name": "Chingri vapa",
         "price": "20",
         "img": "fish-fry.jpg"
       },
