@@ -45,7 +45,7 @@
       {
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "02-13-2024",
+        "orderBefore": "12-31-2024",
         "active": 1,
         "name": "Egg Chicken Kathi Roll(2)",
         "price": "20",
@@ -55,7 +55,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
-        "active": 0,
+        "active": 1,
         "name": "Vegetable Chop (6Pics)",
         "price": "12",
         "img": "fish-fry.jpg"
@@ -94,8 +94,8 @@
         "desc": "............Paneer...............",
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderBefore": "12-31-2024",
+        "active": 1,
         "name": "Paneer Rezala",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -103,9 +103,9 @@
       {
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
-        "name": "Chanar Kopta Curry",
+        "orderBefore": "12-31-2024",
+        "active": 1,
+        "name": "enchor Kopta Curry",
         "price": "18",
         "img": "fish-fry.jpg"
       },      {
@@ -177,7 +177,7 @@
         "type": "nonveg",
         "orderAfter": "12-15-2023",
         "orderBefore": "12-23-2024",
-        "active": 1,
+        "active": 0,
         "name": "Rui Macher Dimer curry",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -223,7 +223,7 @@
         "type": "nonveg",
         "orderAfter": "12-15-2023",
         "orderBefore": "12-23-2024",
-        "active": 1,
+        "active": 0,
         "name": "Badhakopi Tarkari",
         "price": "16",
         "img": "fish-fry.jpg"
@@ -232,8 +232,8 @@
         "desc": "............Special Veg...............",
         "type": "veg",
         "orderAfter": "12-15-2023",
-        "orderBefore": "12-23-2024",
-        "active": 0,
+        "orderBefore": "12-31-2024",
+        "active": 1,
         "name": "Sukto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -242,9 +242,9 @@
         "desc": "............Special Veg...............",
         "type": "veg",
         "orderAfter": "12-22-2023",
-        "orderBefore": "12-30-2023",
-        "active": 0,
-        "name": "Paneer, Fulkopi aloo dalna",
+        "orderBefore": "12-31-2024",
+        "active": 1,
+        "name": "Fulkopi aloo kosa",
         "price": "18",
         "img": "fish-fry.jpg"
       },    {
@@ -286,16 +286,16 @@
       {
         "type": "veg",
         "orderAfter": "12-08-2023",
-        "orderBefore": "12-16-2024",
-        "active": 1,
-        "name": "Alu Vendi Masala",
+        "orderBefore": "12-31-2024",
+        "active": 0,
+        "name": "Alu Vendi masala",
         "price": "18",
         "img": "fish-fry.jpg"
       },
       {
         "type": "veg",
         "orderAfter": "12-15-2023",
-        "orderBefore": "12-23-2023",
+        "orderBefore": "12-31-2024",
         "active": 1,
         "name": "Alu Vendi Posto",
         "price": "18",
@@ -386,10 +386,10 @@
       {
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2024",
-        "active": 0,
+        "orderBefore": "12-31-2024",
+        "active": 1,
         "name": "Alu Soya Curry",
-        "price": "12",
+        "price": "15",
         "img": "fish-fry.jpg"
       },
       {
@@ -414,7 +414,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
-        "active": 1,
+        "active": 0,
         "name": "Pepe Chola Alu dum",
         "price": "16",
         "img": "fish-fry.jpg"
@@ -513,7 +513,7 @@
       {
         "type": "nonveg",
         "orderAfter": "10-27-2023",
-        "orderBefore": "11-04-2023",
+        "orderBefore": "12-31-2024",
         "active": 1,
         "name": "Chicken Dopayaja",
         "price": "20",
@@ -577,8 +577,8 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-28-2024",
         "active": 1,
-        "name": "Egg Curry/Posto (4/8 pics)",
-        "price": "10/$19",
+        "name": "Egg masala  (8 pics)",
+        "price": "20",
         "img": "fish-fry.jpg"
       },
       {
@@ -653,9 +653,9 @@
         "desc": "............Pabda Fish...............",
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "03-13-2024",
+        "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "Pabda Sorse Posto(8 pics)",
+        "name": "Pabda Sorse (8 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -703,7 +703,7 @@
         "type": "nonveg",
         "orderAfter": "12-15-2023",
         "orderBefore": "12-30-2024",
-        "active": 1,
+        "active": 0,
         "name": "Rui posto(6 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -713,7 +713,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
         "active": 0,
-        "name": "Sabji Rui(6 pics)",
+        "name": "aloo Fulkopi Rui(6 pics)",
         "price": "22",
         "img": "fish-fry.jpg"
       },
