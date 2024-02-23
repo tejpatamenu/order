@@ -528,7 +528,7 @@
         "price": "23",
         "img": "fish-fry.jpg"
       },{
-        "type": "nonveg",
+        "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2024",
         "active": 1,
