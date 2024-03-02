@@ -187,7 +187,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-23-2024",
         "active": 1,
-        "name": "Chingri vapa",
+        "name": "Chingri posto",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -222,8 +222,8 @@
       {
         "type": "nonveg",
         "orderAfter": "12-15-2023",
-        "orderBefore": "12-23-2024",
-        "active": 0,
+        "orderBefore": "12-31-2024",
+        "active": 1,
         "name": "Badhakopi Tarkari",
         "price": "16",
         "img": "fish-fry.jpg"
@@ -233,7 +233,7 @@
         "type": "veg",
         "orderAfter": "12-15-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "Sukto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -243,7 +243,7 @@
         "type": "veg",
         "orderAfter": "12-22-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "Fulkopi aloo kosa",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -269,8 +269,8 @@
         "type": "veg",
         "orderAfter": "12-22-2023",
         "orderBefore": "12-30-2024",
-        "active": 0,
-        "name": "Musur deal er bora dia alu phool kopi",
+        "active": 1,
+        "name": "Musur daler Bora alur jhal",
         "price": "18",
         "img": "fish-fry.jpg"
       },
@@ -287,7 +287,7 @@
         "type": "veg",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-31-2024",
-        "active": 0,
+        "active": 1,
         "name": "Alu Vendi masala",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -296,7 +296,7 @@
         "type": "veg",
         "orderAfter": "12-15-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "Alu Vendi Posto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -305,7 +305,7 @@
         "type": "veg",
         "orderAfter": "11-24-2023",
         "orderBefore": "01-13-2024",
-        "active": 1,
+        "active": 0,
         "name": "Palong Saker Ghonto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -378,7 +378,7 @@
         "type": "veg",
         "orderAfter": "11-18-2023",
         "orderBefore": "11-28-2023",
-        "active": 1,
+        "active": 0,
         "name": "Badhakopi Tarkari",
         "price": "10",
         "img": "fish-fry.jpg"
@@ -387,7 +387,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "Alu Soya Curry",
         "price": "15",
         "img": "fish-fry.jpg"
@@ -395,8 +395,8 @@
       {
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2023",
-        "active": 0,
+        "orderBefore": "12-31-2023",
+        "active": 1,
         "name": "Beans Alu Posto",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -449,8 +449,8 @@
                   {
         "type": "veg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "10-21-2024",
-        "active": 0,
+        "orderBefore": "10-31-2024",
+        "active": 1,
         "name": "Ghugni",
         "price": "16",
         "img": "fish-fry.jpg"
@@ -470,7 +470,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "01-30-2024",
-        "active": 1,
+        "active": 0,
         "name": "Dahi Chicken (9 Pics)",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -515,7 +515,7 @@
         "orderAfter": "10-27-2023",
         "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "Chicken Dopayaja",
+        "name": "Chicken alu curry",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -533,7 +533,7 @@
         "orderBefore": "10-21-2024",
         "active": 1,
         "name": "gobi/veg Manchurian",
-        "price": "20",
+        "price": "18",
         "img": "fish-fry.jpg"
       },{
         "type": "nonveg",
@@ -565,9 +565,9 @@
         "desc": "............Mutton...............",
         "type": "nonveg",
         "orderAfter": "10-20-2023",
-        "orderBefore": "10-28-2023",
+        "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "Mutton(Goat) Curry",
+        "name": "Mutton(Goat)Curry(1lb)",
         "price": "30",
         "img": "fish-fry.jpg"
       },
@@ -683,10 +683,10 @@
         "desc": "",
         "type": "nonveg",
         "orderAfter": "12-08-2023",
-        "orderBefore": "01-30-2024",
-        "active": 0,
-        "name": "Sorse ILish(4 pics)",
-        "price": "28",
+        "orderBefore": "12-30-2024",
+        "active": 1,
+        "name": "Sorse ILish(3 pics)",
+        "price": "24",
         "img": "fish-fry.jpg"
       },
       {
@@ -777,7 +777,7 @@
         "type": "nonveg",
         "orderAfter": "12-01-2023",
         "orderBefore": "12-09-2023",
-        "active": 1,
+        "active": 0,
         "name": "Chingri Masala",
         "price": "20",
         "img": "fish-fry.jpg"
