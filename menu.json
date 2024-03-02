@@ -95,7 +95,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "Paneer Rezala",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -104,7 +104,7 @@
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "enchor Kopta Curry",
         "price": "18",
         "img": "fish-fry.jpg"
