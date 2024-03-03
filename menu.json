@@ -96,17 +96,17 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
         "active": 0,
-        "name": "Paneer Rezala",
-        "price": "20",
+        "name": "mutton(goat)kosa(1lb)",
+        "price": "30",
         "img": "fish-fry.jpg"
       },
       {
         "type": "veg",
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
-        "active": 0,
-        "name": "enchor Kopta Curry",
-        "price": "18",
+        "active": 1,
+        "name": "sorse illish(3pc)",
+        "price": "24",
         "img": "fish-fry.jpg"
       },      {
         "type": "veg",
@@ -566,7 +566,7 @@
         "type": "nonveg",
         "orderAfter": "10-20-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "Mutton(Goat)Curry(1lb)",
         "price": "30",
         "img": "fish-fry.jpg"
@@ -684,7 +684,7 @@
         "type": "nonveg",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-30-2024",
-        "active": 1,
+        "active": 0,
         "name": "Sorse ILish(3 pics)",
         "price": "24",
         "img": "fish-fry.jpg"
