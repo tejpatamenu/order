@@ -664,7 +664,7 @@
         "type": "nonveg",
         "orderAfter": "12-01-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "sorse ILish(2 pics)",
         "price": "18",
         "img": "fish-fry.jpg"
