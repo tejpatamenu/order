@@ -96,7 +96,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "labra",
+        "name": "soyabin alu kosa",
         "price": "18",
         "img": "fish-fry.jpg"
       },
@@ -105,7 +105,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "palang kochur ghunto",
+        "name": "panch meshali sobji",
         "price": "18",
         "img": "fish-fry.jpg"
       },      {
@@ -113,7 +113,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "Fulkopi alu posto",
+        "name": "matar mashroom masala",
         "price": "18",
         "img": "fish-fry.jpg"
       },
@@ -122,7 +122,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "kumro alur chokka",
+        "name": "panch meshali torkari",
         "price": "18",
         "img": "fish-fry.jpg"
       },
@@ -131,7 +131,7 @@
         "orderAfter": "10-27-2023",
         "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "egg tadka",
+        "name": "chilli gobi",
         "price": "18",
         "img": "fish-fry.jpg"
       },
@@ -287,7 +287,7 @@
         "type": "veg",
         "orderAfter": "12-08-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "Alu Vendi masala",
         "price": "18",
         "img": "fish-fry.jpg"
@@ -487,7 +487,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "kadai chicken",
         "price": "22",
         "img": "fish-fry.jpg"
@@ -514,7 +514,7 @@
         "type": "nonveg",
         "orderAfter": "10-27-2023",
         "orderBefore": "12-31-2024",
-        "active": 0,
+        "active": 1,
         "name": "Chicken alu curry",
         "price": "20",
         "img": "fish-fry.jpg"
@@ -548,7 +548,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "10-21-2023",
-        "active": 1,
+        "active": 0,
         "name": "Chicken Dakbungalow",
         "price": "23",
         "img": "fish-fry.jpg"
@@ -577,7 +577,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-28-2024",
         "active": 1,
-        "name": "Egg korma  (8 pics)",
+        "name": "Egg masala curry(8 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -622,7 +622,7 @@
         "desc": "............Bata Fish...............",
         "type": "nonveg",
         "orderAfter": "10-13-2023",
-        "orderBefore": "03-30-2024",
+        "orderBefore": "12-30-2024",
         "active": 1,
         "name": "Bata Macher jhal(7 Pics)",
         "price": "20",
@@ -655,7 +655,7 @@
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
         "active": 1,
-        "name": "Pabda Sorse (8 pics)",
+        "name": "begun bori pabda(7 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -703,8 +703,8 @@
         "type": "nonveg",
         "orderAfter": "12-15-2023",
         "orderBefore": "12-30-2024",
-        "active": 0,
-        "name": "Rui posto(6 pics)",
+        "active": 1,
+        "name": "Rui sorse posto(6 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
       },
@@ -712,7 +712,7 @@
         "type": "nonveg",
         "orderAfter": "10-13-2023",
         "orderBefore": "12-31-2024",
-        "active": 1,
+        "active": 0,
         "name": "Rui kaliya (6 pics)",
         "price": "20",
         "img": "fish-fry.jpg"
